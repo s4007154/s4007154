@@ -11,8 +11,10 @@
 ###
 
 <p align="left">
-  ✨ -------------- <br />
-  📚 I'm currently learning ... <br />🎯 Goals: ...<br />🎲 Fun fact: ...
+  ✨ I live websites and games <br />
+  📚 I'm currently learning web-development; where I am using a combination of Springboot and Thymeleaf to create a website <br />
+  🎯 Goals: I am to create my first game soon <br />
+  🎲 Fun fact: I am currently obsessed with kirby
 </p>
 
 ###
