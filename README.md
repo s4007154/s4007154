@@ -11,9 +11,10 @@
 ###
 
 <p align="left">
-  ✨ I like websites and games <br />
-  📚 I'm currently learning web-development; where I am using a combination of Springboot and Thymeleaf to create a website <br />
-  🎯 Goals: I am to create my first game soon <br />
+  ✨ I like developing websites and games. I am all about user interaction and experience. <br />
+  📚 I am currently trying to enhance my python abilties <br />
+  🎯 Personal projects: I am currently creating my first discord bot using the discord.py library :D <br />
+  💻 Work: At work I am currently dabbling in Devops related development relating to Cloud and Platform Engineering <br />
   🎲 Fun fact: I am currently obsessed with kirby
 </p>
 
@@ -52,18 +53,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
     height="40"
     alt="java logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-    height="40"
-    alt="cplusplus logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
-    height="40"
-    alt="kotlin logo"
   />
   <img width="12" />
   <img
