@@ -23,10 +23,10 @@
 <h2 align="left"> My current projects are</h2>
 
 <p align ="left">
-  💫 A discord.py bot built in python that provides functionality to social servers
-  🌻 Another discord.py bot that uses python and the selenium library to gather information for a gaming event
-  🍡 Personal portfolio website built from TailwindCSS and ReactJS
-  📖 Reading books about Web Design, Game Development and Python Automation
+  💫 A discord.py bot built in python that provides functionality to social servers <br />
+  🌻 Another discord.py bot that uses python and the selenium library to gather information for a gaming event <br />
+  🍡 Personal portfolio website built from TailwindCSS and ReactJS <br />
+  📖 Reading books about Web Design, Game Development and Python Automation <br />
 </p>
 
 ###
