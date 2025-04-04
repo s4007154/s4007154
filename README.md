@@ -12,12 +12,26 @@
 
 <p align="left">
   ✨ I like developing websites and games. I am all about user interaction and experience. <br />
-  📚 I am currently trying to enhance my python abilties <br />
-  💫 Personal projects: <br /> 
-  🎯 I am currently creating two discord bot using the discord.py library :D <br /> 
-  🎯 I am also building my own personal portfolio website using Tailwind CSS and React.js :) <br /> 
+  📚 I am currently trying to enhance my Python and ReactJs programming abilities <br />
+  🎯 Goals: I am to create my first game soon <br />
   💻 Work: At work I am currently dabbling in Devops related development relating to Cloud and Platform Engineering <br />
   🎲 Fun fact: I am currently obsessed with kirby
+</p>
+
+###
+
+<h2 align="left"> My current projects are</h2>
+
+<p align ="left">
+  💫 A discord.py bot built in python that provides functionality to social servers
+  🌻 Another discord.py bot that uses python and the selenium library to gather information for a gaming event
+  🍡 Personal portfolio website built from TailwindCSS and ReactJS
+  📖 Reading books about Web Design, Game Development and Python Automation
+</p>
+###
+
+<p align="left">
+
 </p>
 
 ###
