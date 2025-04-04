@@ -14,8 +14,8 @@
   ✨ I like developing websites and games. I am all about user interaction and experience. <br />
   📚 I am currently trying to enhance my python abilties <br />
   🎯 Personal projects: 
-  - I am currently creating two discord bot using the discord.py library :D <br />
-  - I am also building my own personal portfolio website using Tailwind CSS and React.js :) <br />
+- I am currently creating two discord bot using the discord.py library :D
+- I am also building my own personal portfolio website using Tailwind CSS and React.js :)
   💻 Work: At work I am currently dabbling in Devops related development relating to Cloud and Platform Engineering <br />
   🎲 Fun fact: I am currently obsessed with kirby
 </p>
