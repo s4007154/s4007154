@@ -28,6 +28,7 @@
   🍡 Personal portfolio website built from TailwindCSS and ReactJS
   📖 Reading books about Web Design, Game Development and Python Automation
 </p>
+
 ###
 
 <p align="left">
