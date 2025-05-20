@@ -14,7 +14,7 @@
   ✨ I like developing websites and games. I am all about user interaction and experience. <br />
   📚 I am currently trying to enhance my Python and ReactJs programming abilities <br />
   🎯 Goals: I am to create my first game soon <br />
-  💻 Work: At work I am currently dabbling in Devops related development relating to Cloud and Platform Engineering <br />
+  💻 Work: I am currently a Platform Engineering Intern, working in Cloud, Platform Services and SRE teams <br />
   🎲 Fun fact: I am currently obsessed with kirby
 </p>
 
