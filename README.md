@@ -14,7 +14,7 @@
   ✨ I like developing websites and games. I am all about user interaction and experience. <br />
   📚 I am currently trying to enhance my React (javascript) programming abilities <br />
   🎯 Goals: I am to create my first game soon <br />
-  💻 Work: I am currently a website development intern - specifically working on the front-end :)<br />
+  💻 Work: I am currently a Platform Associate Engineer :) <br />
   🎲 Fun fact: I am currently obsessed with kirby
 </p>
 
